@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\DU\.NET ASP\Home\GitConsoleApp\GitConsoleApp\bin\Debug\GitConsoleApp.exe
+C:\Users\User\Desktop\DU\.NET ASP\Home\GitConsoleApp\GitConsoleApp\bin\Debug\GitConsoleApp.pdb
+C:\Users\User\Desktop\DU\.NET ASP\Home\GitConsoleApp\GitConsoleApp\obj\x86\Debug\GitConsoleApp.exe
+C:\Users\User\Desktop\DU\.NET ASP\Home\GitConsoleApp\GitConsoleApp\obj\x86\Debug\GitConsoleApp.pdb
